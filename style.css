@@ -291,8 +291,8 @@ body.is-loading #main > .inner > section > * {
     margin-left: auto !important;
     margin-right: auto !important;
     color: #FFFFFF;
-    font-family: 'Pacifico';
-    letter-spacing: -0.025rem;
+    font-family: 'Fredoka One';
+    letter-spacing: -0.030rem;
     width: 100%;
     font-size: 0.8em;
     line-height: 1.5;
@@ -342,10 +342,11 @@ p br + br {
 }
 #wordmark {
     color: #FFFFFF;
-    font-family: 'Pacifico';
-    font-size: 3.25em;
+    font-family: 'Fredoka One';
+    letter-spacing: 0.1rem;
+    font-size: 3em;
     line-height: 1.5;
-    font-weight: 400;
+    font-weight: 700;
 }
 #tagline br + br {
     margin-top: 1.125rem;
@@ -382,7 +383,7 @@ p br + br {
 }
 #team {
     color: #FFFFFF;
-    font-family: 'Pacifico';
+    font-family: 'Fredoka One';
     letter-spacing: -0.025rem;
     width: 100%;
     font-size: 2.5em;
@@ -394,7 +395,7 @@ p br + br {
 }
 #projects {
     color: #FFFFFF;
-    font-family: 'Pacifico';
+    font-family: 'Fredoka One';
     letter-spacing: -0.025rem;
     width: 100%;
     font-size: 2.5em;
