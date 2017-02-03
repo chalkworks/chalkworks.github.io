@@ -432,7 +432,7 @@ p br + br {
 }
 #picture ul li img {
     height: auto;
-    max-height: 6rem;
+    max-height: 8rem;
     border-radius: 0.625rem;
 }
 hr {
