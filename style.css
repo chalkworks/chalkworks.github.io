@@ -330,7 +330,7 @@ body.is-loading #main > .inner > section > * {
     width: 4rem;
 }
 #image01 img {
-    width: 8rem;
+    width: 6rem;
 }
 h1 br + br,
 p br + br {
@@ -432,7 +432,7 @@ p br + br {
 }
 #picture ul li img {
     height: auto;
-    max-height: 8rem;
+    max-height: 6rem;
     border-radius: 0.625rem;
 }
 hr {
